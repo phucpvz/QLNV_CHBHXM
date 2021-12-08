@@ -1,0 +1,8 @@
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\bin\Release\MyControlLibrary.dll
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\bin\Release\MyControlLibrary.pdb
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Release\MyControlLibrary.csproj.GenerateResource.cache
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Release\MyControlLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Release\MyControlLibrary.dll
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Release\MyControlLibrary.pdb
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Release\MyControlLibrary.csprojAssemblyReference.cache
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Release\MyControlLibrary.MyTextBox.resources

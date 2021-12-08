@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLNV_CHBHXMModelStoreContainer" CdmEntityContainer="QLNV_CHBHXMEntities">
+    <FunctionImportMapping FunctionImportName="USP_LayMaTiepTheo" FunctionName="QLNV_CHBHXMModel.Store.USP_LayMaTiepTheo" />
+    <FunctionImportMapping FunctionImportName="USP_TimKiemDichVuChuaPhanCong" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemDichVuChuaPhanCong">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemDichVuChuaPhanCong_Result">
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepCongViec" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepCongViec">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepCongViec_Result">
+          <ScalarProperty Name="MaCV" ColumnName="MaCV" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepDichVu" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepDichVu">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepDichVu_Result">
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepDonGia" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepDonGia">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepDonGia_Result">
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+          <ScalarProperty Name="TenLX" ColumnName="TenLX" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepLoaiXe" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepLoaiXe">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepLoaiXe_Result">
+          <ScalarProperty Name="MaLX" ColumnName="MaLX" />
+          <ScalarProperty Name="TenLX" ColumnName="TenLX" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepLuong" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepLuong">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepLuong_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="Thang" ColumnName="Thang" />
+          <ScalarProperty Name="Nam" ColumnName="Nam" />
+          <ScalarProperty Name="SoNgayThucLam" ColumnName="SoNgayThucLam" />
+          <ScalarProperty Name="TongDoanhThu" ColumnName="TongDoanhThu" />
+          <ScalarProperty Name="LuongThucLanh" ColumnName="LuongThucLanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepNangLuc" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepNangLuc">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepNangLuc_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepNhanVien" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepNhanVien">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepNhanVien_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SoDT" ColumnName="SoDT" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LuongCoBan" ColumnName="LuongCoBan" />
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+          <ScalarProperty Name="TenLoai" ColumnName="TenLoai" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="BangGias">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.BangGia">
+        <MappingFragment StoreEntitySet="BangGia">
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="MaLX" ColumnName="MaLX" />
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChiTietCVs">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.ChiTietCV">
+        <MappingFragment StoreEntitySet="ChiTietCV">
+          <ScalarProperty Name="Soluong" ColumnName="Soluong" />
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+          <ScalarProperty Name="MaCV" ColumnName="MaCV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CongViecs">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.CongViec">
+        <MappingFragment StoreEntitySet="CongViec">
+          <ScalarProperty Name="TongTien" ColumnName="TongTien" />
+          <ScalarProperty Name="NgayLam" ColumnName="NgayLam" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="MaCV" ColumnName="MaCV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DichVus">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.DichVu">
+        <MappingFragment StoreEntitySet="DichVu">
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+          <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoaiNVs">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.LoaiNV">
+        <MappingFragment StoreEntitySet="LoaiNV">
+          <ScalarProperty Name="TenLoai" ColumnName="TenLoai" />
+          <ScalarProperty Name="MaLoai" ColumnName="MaLoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoaiXes">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.LoaiXe">
+        <MappingFragment StoreEntitySet="LoaiXe">
+          <ScalarProperty Name="TenLX" ColumnName="TenLX" />
+          <ScalarProperty Name="MaLX" ColumnName="MaLX" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Luongs">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.Luong">
+        <MappingFragment StoreEntitySet="Luong">
+          <ScalarProperty Name="TongDoanhThu" ColumnName="TongDoanhThu" />
+          <ScalarProperty Name="SoNgayThucLam" ColumnName="SoNgayThucLam" />
+          <ScalarProperty Name="Nam" ColumnName="Nam" />
+          <ScalarProperty Name="Thang" ColumnName="Thang" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhanViens">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.NhanVien">
+        <MappingFragment StoreEntitySet="NhanVien">
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="MaLoai" ColumnName="MaLoai" />
+          <ScalarProperty Name="LuongCoBan" ColumnName="LuongCoBan" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SoDT" ColumnName="SoDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaiKhoans">
+      <EntityTypeMapping TypeName="QLNV_CHBHXMModel.TaiKhoan">
+        <MappingFragment StoreEntitySet="TaiKhoan">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TenDangNhap" ColumnName="TenDangNhap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="NangLuc" TypeName="QLNV_CHBHXMModel.NangLuc" StoreEntitySet="NangLuc">
+      <EndProperty Name="NhanVien">
+        <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+      </EndProperty>
+      <EndProperty Name="DichVu">
+        <ScalarProperty Name="MaDV" ColumnName="MaDV" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepChiTietCV" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepChiTietCV">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepChiTietCV_Result1">
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+          <ScalarProperty Name="TenLX" ColumnName="TenLX" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="Tong" ColumnName="Tong" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemVaSapXepDonGiaTheoNhanVien" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemVaSapXepDonGiaTheoNhanVien">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemVaSapXepDonGiaTheoNhanVien_Result">
+          <ScalarProperty Name="MaDG" ColumnName="MaDG" />
+          <ScalarProperty Name="TenDV" ColumnName="TenDV" />
+          <ScalarProperty Name="TenLX" ColumnName="TenLX" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_TimKiemNhanVienRutGon" FunctionName="QLNV_CHBHXMModel.Store.USP_TimKiemNhanVienRutGon">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLNV_CHBHXMModel.USP_TimKiemNhanVienRutGon_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

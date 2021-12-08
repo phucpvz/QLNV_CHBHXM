@@ -1,0 +1,354 @@
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe.config
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.pdb
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csprojAssemblyReference.cache
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.Properties.Resources.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.GenerateResource.cache
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CoreCompileInputs.cache
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.exe
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.pdb
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.pdb
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FLogin.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CopyComplete
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.xml
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAdmin.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddPrice.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddWork.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FChangePassword.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FStaff.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddTalent.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EnvDTE.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\stdole.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportEmployee.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\RdlCompile.cache
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\RdlCompile.compiled
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportPrice.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportSalary.resources
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddYourTalent.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe.config
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.pdb
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EnvDTE.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\stdole.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.MSXML.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.pdb
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.xml
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csprojAssemblyReference.cache
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAbout.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddPrice.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddTalent.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddWork.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddYourTalent.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAdmin.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FChangePassword.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FLogin.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportEmployee.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportPrice.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportSalary.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FStaff.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.Properties.Resources.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.GenerateResource.cache
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CoreCompileInputs.cache
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CopyComplete
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.exe
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csprojAssemblyReference.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.exe
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe.config
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EnvDTE.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\stdole.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.MSXML.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.xml
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.xml
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAbout.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddPrice.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddTalent.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddWork.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddYourTalent.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAdmin.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FChangePassword.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FLogin.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportEmployee.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportPrice.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportSalary.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FStaff.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.Properties.Resources.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.GenerateResource.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\RdlCompile.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\RdlCompile.compiled
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CoreCompileInputs.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_Fix\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CopyComplete
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csprojAssemblyReference.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAbout.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddPrice.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddTalent.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddWork.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAddYourTalent.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FAdmin.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FChangePassword.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FLogin.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportEmployee.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportPrice.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FReportSalary.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.GUI.FStaff.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.Properties.Resources.resources
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.GenerateResource.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\RdlCompile.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\RdlCompile.compiled
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CoreCompileInputs.cache
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.exe
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe.config
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.exe
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\QLNV_CHBHXM.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EnvDTE.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\stdole.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Microsoft.MSXML.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\MyControlLibrary.pdb
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.xml
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\EntityFramework.SqlServer.xml
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PTIT\Nhập môn công nghệ phần mềm\Đồ án\QLNV_CHBHXM_P2\QLNV_CHBHXM_P1\QLNV_CHBHXM\QLNV_CHBHXM\obj\Debug\QLNV_CHBHXM.csproj.CopyComplete
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\LinqToExcel.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Remotion.Data.Linq.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Remotion.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\Remotion.Interfaces.dll
+D:\Projects\Data\QLNV_CHBHXM\QLNV_CHBHXM\bin\Debug\LinqToExcel.xml

@@ -1,0 +1,16 @@
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\bin\Debug\MyControlLibrary.dll
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\bin\Debug\MyControlLibrary.pdb
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.GenerateResource.cache
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.dll
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.pdb
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.csprojAssemblyReference.cache
+D:\Projects\Data\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.MyTextBox.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\bin\Debug\MyControlLibrary.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\bin\Debug\MyControlLibrary.pdb
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.csprojAssemblyReference.cache
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.MyTextBox.resources
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.GenerateResource.cache
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.CoreCompileInputs.cache
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.dll
+E:\CNPM\QLNV_CHBHXM\QLNV_CHBHXM\MyControlLibrary\obj\Debug\MyControlLibrary.pdb

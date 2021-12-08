@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNV_CHBHXMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QLNV_CHBHXMEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="USP_LayMaTiepTheo" ReturnType="Collection(Decimal)">
+      <Parameter Name="table_name" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemDichVuChuaPhanCong" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemDichVuChuaPhanCong_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="tenDV" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepCongViec" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepCongViec_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="hoTen" Mode="In" Type="String" />
+      <Parameter Name="ngayLam" Mode="In" Type="DateTime" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepDichVu" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepDichVu_Result)">
+      <Parameter Name="tenDV" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepDonGia" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepDonGia_Result)">
+      <Parameter Name="tenDV" Mode="In" Type="String" />
+      <Parameter Name="tenLX" Mode="In" Type="String" />
+      <Parameter Name="trangThai" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepLoaiXe" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepLoaiXe_Result)">
+      <Parameter Name="tenLX" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepLuong" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepLuong_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="hoTen" Mode="In" Type="String" />
+      <Parameter Name="tuSoNgayThucLam" Mode="In" Type="Int32" />
+      <Parameter Name="denSoNgayThucLam" Mode="In" Type="Int32" />
+      <Parameter Name="tuThang" Mode="In" Type="Int32" />
+      <Parameter Name="denThang" Mode="In" Type="Int32" />
+      <Parameter Name="tuNam" Mode="In" Type="Int32" />
+      <Parameter Name="denNam" Mode="In" Type="Int32" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepNangLuc" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepNangLuc_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="hoTen" Mode="In" Type="String" />
+      <Parameter Name="tenDV" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepNhanVien" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepNhanVien_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="hoTen" Mode="In" Type="String" />
+      <Parameter Name="gioiTinh" Mode="In" Type="String" />
+      <Parameter Name="tuNgay" Mode="In" Type="DateTime" />
+      <Parameter Name="denNgay" Mode="In" Type="DateTime" />
+      <Parameter Name="diaChi" Mode="In" Type="String" />
+      <Parameter Name="soDT" Mode="In" Type="String" />
+      <Parameter Name="email" Mode="In" Type="String" />
+      <Parameter Name="tuLuong" Mode="In" Type="Decimal" />
+      <Parameter Name="denLuong" Mode="In" Type="Decimal" />
+      <Parameter Name="tenLoai" Mode="In" Type="String" />
+      <Parameter Name="trangThai" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="BangGias" EntityType="QLNV_CHBHXMModel.BangGia" />
+    <EntitySet Name="ChiTietCVs" EntityType="QLNV_CHBHXMModel.ChiTietCV" />
+    <EntitySet Name="CongViecs" EntityType="QLNV_CHBHXMModel.CongViec" />
+    <EntitySet Name="DichVus" EntityType="QLNV_CHBHXMModel.DichVu" />
+    <EntitySet Name="LoaiNVs" EntityType="QLNV_CHBHXMModel.LoaiNV" />
+    <EntitySet Name="LoaiXes" EntityType="QLNV_CHBHXMModel.LoaiXe" />
+    <EntitySet Name="Luongs" EntityType="QLNV_CHBHXMModel.Luong" />
+    <EntitySet Name="NhanViens" EntityType="QLNV_CHBHXMModel.NhanVien" />
+    <EntitySet Name="TaiKhoans" EntityType="QLNV_CHBHXMModel.TaiKhoan" />
+    <AssociationSet Name="FK__BangGia__MaDV__3E52440B" Association="QLNV_CHBHXMModel.FK__BangGia__MaDV__3E52440B">
+      <End Role="DichVu" EntitySet="DichVus" />
+      <End Role="BangGia" EntitySet="BangGias" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BangGia__MaLX__3F466844" Association="QLNV_CHBHXMModel.FK__BangGia__MaLX__3F466844">
+      <End Role="LoaiXe" EntitySet="LoaiXes" />
+      <End Role="BangGia" EntitySet="BangGias" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CongViec__MaNV__45F365D3" Association="QLNV_CHBHXMModel.FK__CongViec__MaNV__45F365D3">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="CongViec" EntitySet="CongViecs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhanVien__MaLoai__2A4B4B5E" Association="QLNV_CHBHXMModel.FK__NhanVien__MaLoai__2A4B4B5E">
+      <End Role="LoaiNV" EntitySet="LoaiNVs" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Luong__MaNV__4E88ABD4" Association="QLNV_CHBHXMModel.FK__Luong__MaNV__4E88ABD4">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="Luong" EntitySet="Luongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TaiKhoan__MaNV__30F848ED" Association="QLNV_CHBHXMModel.FK__TaiKhoan__MaNV__30F848ED">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="TaiKhoan" EntitySet="TaiKhoans" />
+    </AssociationSet>
+    <AssociationSet Name="NangLuc" Association="QLNV_CHBHXMModel.NangLuc">
+      <End Role="DichVu" EntitySet="DichVus" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <FunctionImport Name="USP_TimKiemVaSapXepChiTietCV" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepChiTietCV_Result1)">
+      <Parameter Name="maCV" Mode="In" Type="Int32" />
+      <Parameter Name="tenDV" Mode="In" Type="String" />
+      <Parameter Name="tenLX" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemVaSapXepDonGiaTheoNhanVien" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemVaSapXepDonGiaTheoNhanVien_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="tenDV" Mode="In" Type="String" />
+      <Parameter Name="tenLX" Mode="In" Type="String" />
+      <Parameter Name="tenCot" Mode="In" Type="String" />
+      <Parameter Name="huongSapXep" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_TimKiemNhanVienRutGon" ReturnType="Collection(QLNV_CHBHXMModel.USP_TimKiemNhanVienRutGon_Result)">
+      <Parameter Name="maNV" Mode="In" Type="String" />
+      <Parameter Name="hoTen" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="USP_TimKiemDichVu_Result">
+    <Property Type="Int32" Name="MaDV" Nullable="false" />
+    <Property Type="String" Name="TenDV" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemDichVuChuaPhanCong_Result">
+    <Property Type="Int32" Name="MaDV" Nullable="false" />
+    <Property Type="String" Name="TenDV" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemDonGiaTheoNhanVien_Result">
+    <Property Type="Int32" Name="MaDG" Nullable="false" />
+    <Property Type="String" Name="TenDV" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="TenLX" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="DonGia" Nullable="false" />
+    <Property Type="String" Name="TrangThai" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepChiTietCV_Result">
+    <Property Type="Int32" Name="MaDG" Nullable="true" />
+    <Property Type="String" Name="TenDV" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="TenLX" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="DonGia" Nullable="true" />
+    <Property Type="Int32" Name="SoLuong" Nullable="true" />
+    <Property Type="Int32" Name="TongGia" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepCongViec_Result">
+    <Property Type="Int32" Name="MaCV" Nullable="true" />
+    <Property Type="String" Name="MaNV" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="100" />
+    <Property Type="Decimal" Name="TongTien" Nullable="true" Precision="18" Scale="0" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepDichVu_Result">
+    <Property Type="Int32" Name="MaDV" Nullable="true" />
+    <Property Type="String" Name="TenDV" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepDonGia_Result">
+    <Property Type="Int32" Name="MaDG" Nullable="true" />
+    <Property Type="String" Name="TenDV" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="TenLX" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="DonGia" Nullable="true" />
+    <Property Type="String" Name="TrangThai" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepLoaiXe_Result">
+    <Property Type="Int32" Name="MaLX" Nullable="true" />
+    <Property Type="String" Name="TenLX" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepLuong_Result">
+    <Property Type="String" Name="MaNV" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="Thang" Nullable="true" />
+    <Property Type="Int32" Name="Nam" Nullable="true" />
+    <Property Type="Int32" Name="SoNgayThucLam" Nullable="true" />
+    <Property Type="Decimal" Name="TongDoanhThu" Nullable="true" Precision="18" Scale="0" />
+    <Property Type="Decimal" Name="LuongThucLanh" Nullable="true" Precision="18" Scale="0" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepNangLuc_Result">
+    <Property Type="String" Name="MaNV" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="MaDV" Nullable="true" />
+    <Property Type="String" Name="TenDV" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepNhanVien_Result">
+    <Property Type="String" Name="MaNV" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="GioiTinh" Nullable="true" MaxLength="5" />
+    <Property Type="DateTime" Name="NgaySinh" Nullable="true" />
+    <Property Type="String" Name="DiaChi" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="SoDT" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="Email" Nullable="true" MaxLength="100" />
+    <Property Type="Decimal" Name="LuongCoBan" Nullable="true" Precision="18" Scale="0" />
+    <Property Type="String" Name="TenDangNhap" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="TenLoai" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="TrangThai" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepNhanVienRutGon_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <EntityType Name="BangGia">
+    <Key>
+      <PropertyRef Name="MaDV" />
+      <PropertyRef Name="MaLX" />
+      <PropertyRef Name="DonGia" />
+    </Key>
+    <Property Name="MaDG" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaDV" Type="Int32" Nullable="false" />
+    <Property Name="MaLX" Type="Int32" Nullable="false" />
+    <Property Name="DonGia" Type="Int32" Nullable="false" />
+    <Property Name="TrangThai" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DichVu" Relationship="QLNV_CHBHXMModel.FK__BangGia__MaDV__3E52440B" FromRole="BangGia" ToRole="DichVu" />
+    <NavigationProperty Name="LoaiXe" Relationship="QLNV_CHBHXMModel.FK__BangGia__MaLX__3F466844" FromRole="BangGia" ToRole="LoaiXe" />
+  </EntityType>
+  <EntityType Name="ChiTietCV">
+    <Key>
+      <PropertyRef Name="MaCV" />
+      <PropertyRef Name="MaDG" />
+    </Key>
+    <Property Name="MaCV" Type="Int32" Nullable="false" />
+    <Property Name="MaDG" Type="Int32" Nullable="false" />
+    <Property Name="Soluong" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CongViec">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="NgayLam" />
+    </Key>
+    <Property Name="MaCV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayLam" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TongTien" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="NhanVien" Relationship="QLNV_CHBHXMModel.FK__CongViec__MaNV__45F365D3" FromRole="CongViec" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="DichVu">
+    <Key>
+      <PropertyRef Name="MaDV" />
+    </Key>
+    <Property Name="MaDV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenDV" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BangGias" Relationship="QLNV_CHBHXMModel.FK__BangGia__MaDV__3E52440B" FromRole="DichVu" ToRole="BangGia" />
+    <NavigationProperty Name="NhanViens" Relationship="QLNV_CHBHXMModel.NangLuc" FromRole="DichVu" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="LoaiNV">
+    <Key>
+      <PropertyRef Name="MaLoai" />
+    </Key>
+    <Property Name="MaLoai" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenLoai" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NhanViens" Relationship="QLNV_CHBHXMModel.FK__NhanVien__MaLoai__2A4B4B5E" FromRole="LoaiNV" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="LoaiXe">
+    <Key>
+      <PropertyRef Name="MaLX" />
+    </Key>
+    <Property Name="MaLX" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenLX" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BangGias" Relationship="QLNV_CHBHXMModel.FK__BangGia__MaLX__3F466844" FromRole="LoaiXe" ToRole="BangGia" />
+  </EntityType>
+  <EntityType Name="Luong">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="Thang" />
+      <PropertyRef Name="Nam" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Thang" Type="Int32" Nullable="false" />
+    <Property Name="Nam" Type="Int32" Nullable="false" />
+    <Property Name="SoNgayThucLam" Type="Int32" Nullable="false" />
+    <Property Name="TongDoanhThu" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="NhanVien" Relationship="QLNV_CHBHXMModel.FK__Luong__MaNV__4E88ABD4" FromRole="Luong" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="HoTen" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="GioiTinh" Type="String" Nullable="false" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DiaChi" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SoDT" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="LuongCoBan" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <Property Name="MaLoai" Type="Int32" Nullable="false" />
+    <Property Name="TrangThai" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CongViecs" Relationship="QLNV_CHBHXMModel.FK__CongViec__MaNV__45F365D3" FromRole="NhanVien" ToRole="CongViec" />
+    <NavigationProperty Name="LoaiNV" Relationship="QLNV_CHBHXMModel.FK__NhanVien__MaLoai__2A4B4B5E" FromRole="NhanVien" ToRole="LoaiNV" />
+    <NavigationProperty Name="Luongs" Relationship="QLNV_CHBHXMModel.FK__Luong__MaNV__4E88ABD4" FromRole="NhanVien" ToRole="Luong" />
+    <NavigationProperty Name="TaiKhoans" Relationship="QLNV_CHBHXMModel.FK__TaiKhoan__MaNV__30F848ED" FromRole="NhanVien" ToRole="TaiKhoan" />
+    <NavigationProperty Name="DichVus" Relationship="QLNV_CHBHXMModel.NangLuc" FromRole="NhanVien" ToRole="DichVu" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="TenDangNhap" />
+    </Key>
+    <Property Name="TenDangNhap" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" Nullable="false" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="NhanVien" Relationship="QLNV_CHBHXMModel.FK__TaiKhoan__MaNV__30F848ED" FromRole="TaiKhoan" ToRole="NhanVien" />
+  </EntityType>
+  <Association Name="FK__BangGia__MaDV__3E52440B">
+    <End Type="QLNV_CHBHXMModel.DichVu" Role="DichVu" Multiplicity="1" />
+    <End Type="QLNV_CHBHXMModel.BangGia" Role="BangGia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DichVu">
+        <PropertyRef Name="MaDV" />
+      </Principal>
+      <Dependent Role="BangGia">
+        <PropertyRef Name="MaDV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BangGia__MaLX__3F466844">
+    <End Type="QLNV_CHBHXMModel.LoaiXe" Role="LoaiXe" Multiplicity="1" />
+    <End Type="QLNV_CHBHXMModel.BangGia" Role="BangGia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiXe">
+        <PropertyRef Name="MaLX" />
+      </Principal>
+      <Dependent Role="BangGia">
+        <PropertyRef Name="MaLX" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CongViec__MaNV__45F365D3">
+    <End Type="QLNV_CHBHXMModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QLNV_CHBHXMModel.CongViec" Role="CongViec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="CongViec">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhanVien__MaLoai__2A4B4B5E">
+    <End Type="QLNV_CHBHXMModel.LoaiNV" Role="LoaiNV" Multiplicity="1" />
+    <End Type="QLNV_CHBHXMModel.NhanVien" Role="NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiNV">
+        <PropertyRef Name="MaLoai" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="MaLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Luong__MaNV__4E88ABD4">
+    <End Type="QLNV_CHBHXMModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QLNV_CHBHXMModel.Luong" Role="Luong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="Luong">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TaiKhoan__MaNV__30F848ED">
+    <End Type="QLNV_CHBHXMModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QLNV_CHBHXMModel.TaiKhoan" Role="TaiKhoan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="TaiKhoan">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="NangLuc">
+    <End Type="QLNV_CHBHXMModel.DichVu" Role="DichVu" Multiplicity="*" />
+    <End Type="QLNV_CHBHXMModel.NhanVien" Role="NhanVien" Multiplicity="*" />
+  </Association>
+  <ComplexType Name="USP_TimKiemVaSapXepChiTietCV_Result1">
+    <Property Type="Int32" Name="MaDG" Nullable="true" />
+    <Property Type="String" Name="TenDV" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="TenLX" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="DonGia" Nullable="true" />
+    <Property Type="Int32" Name="SoLuong" Nullable="true" />
+    <Property Type="Int32" Name="Tong" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemVaSapXepDonGiaTheoNhanVien_Result">
+    <Property Type="Int32" Name="MaDG" Nullable="true" />
+    <Property Type="String" Name="TenDV" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="TenLX" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="DonGia" Nullable="true" />
+    <Property Type="String" Name="TrangThai" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_TimKiemNhanVienRutGon_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="HoTen" Nullable="false" MaxLength="100" />
+  </ComplexType>
+</Schema>

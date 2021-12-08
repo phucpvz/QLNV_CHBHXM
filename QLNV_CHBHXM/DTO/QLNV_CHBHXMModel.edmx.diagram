@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3540c8cb5fb246ca935ccf3f85f6e098" Name="Diagram1">
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.BangGia" Width="1.5" PointX="3" PointY="5.5" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.ChiTietCV" Width="1.5" PointX="0.75" PointY="8.75" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.CongViec" Width="1.5" PointX="8.25" PointY="8.375" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.DichVu" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.LoaiNV" Width="1.5" PointX="3.75" PointY="2.875" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.LoaiXe" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.Luong" Width="1.5" PointX="8.25" PointY="5.5" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.NhanVien" Width="1.5" PointX="6" PointY="4.625" />
+        <EntityTypeShape EntityType="QLNV_CHBHXMModel.TaiKhoan" Width="1.5" PointX="8.25" PointY="2.875" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.FK__BangGia__MaDV__3E52440B" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.FK__BangGia__MaLX__3F466844" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.FK__CongViec__MaNV__45F365D3" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.FK__NhanVien__MaLoai__2A4B4B5E" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.FK__Luong__MaNV__4E88ABD4" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.FK__TaiKhoan__MaNV__30F848ED" />
+        <AssociationConnector Association="QLNV_CHBHXMModel.NangLuc" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
